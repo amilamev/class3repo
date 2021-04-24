@@ -1,4 +1,8 @@
-# class3repo
-Amila Mevic - Financial Assistant at NU
-I want to learn new skills
-I am interested in blockchain and crypto.
+# FinTech Repository with H1
+
+## Fintech Repository with H2
+
+### FinTech Repository with H3
+
+Welcome to my repository for the NU FinTech Bootcamp!
+
