@@ -19,3 +19,7 @@ print("Welcome to FinTech")
 ---
 
 [LinkedIn](https://www.linkedin.com/checkpoint/lg/login-submit)
+
+---
+
+![Dog](https://kb.rspca.org.au/wp-content/uploads/2018/11/golder-retriever-puppy.jpeg)
