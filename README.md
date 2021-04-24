@@ -4,7 +4,7 @@
 
 ### FinTech Repository with H3
 
-Welcome to my repository for the NU FinTech Bootcamp!
+Welcome to my repository for the `NU FinTech Bootcamp!`
 
 *This text will be in italics*
 
@@ -12,4 +12,6 @@ Welcome to my repository for the NU FinTech Bootcamp!
 
 **This text will be in bold**
 
-
+```python
+print("Welcome to FinTech")
+```
